@@ -1,2 +1,2 @@
-print("this is python file test ...."
+print("this is python file test ....")
 print("ok")
