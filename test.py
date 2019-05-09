@@ -16,4 +16,3 @@ print(math.sin(x))
 
 print("it is end....")
 
-print("adfasdfs")
